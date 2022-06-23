@@ -1,0 +1,18 @@
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\BLL\bin\Debug\BLL.dll
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\BLL\bin\Debug\BLL.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\BLL\obj\Debug\BLL.dll
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\BLL\obj\Debug\BLL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\bin\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\bin\Debug\BLL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\obj\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\obj\Debug\BLL.pdb
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\bin\Debug\BLL.dll
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\bin\Debug\BLL.pdb
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\obj\Debug\BLL.dll
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\BLL\obj\Debug\BLL.pdb

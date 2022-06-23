@@ -1,0 +1,172 @@
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe.config
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.pdb
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Users.resources
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.exe
+C:\Users\Usuario\source\repos\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe.config
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.dll
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.dll
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_codeValidation.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_ListaProyects.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Login.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Main.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Proyects.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_SendCodevalidation.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_UpdatePassword.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Users.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Properties.Resources.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.GenerateResource.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CopyComplete
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.exe
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe.config
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.dll
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.dll
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_codeValidation.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_ListaProyects.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Login.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Main.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Proyects.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_SendCodevalidation.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_UpdatePassword.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Users.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Properties.Resources.resources
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.GenerateResource.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CopyComplete
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.exe
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplicacion-SAP-PARTE PROYECTOS\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csprojAssemblyReference.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_codeValidation.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_ListaProyects.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Login.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Main.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Proyects.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_SendCodevalidation.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_UpdatePassword.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Users.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Properties.Resources.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.GenerateResource.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CoreCompileInputs.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.exe
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe.config
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CopyComplete
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Newpassword.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe.config
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.pdb
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.dll
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.dll
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.pdb
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.pdb
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.AssemblyReference.cache
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_codeValidation.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_ListaProyects.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Login.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Main.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Newpassword.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Proyects.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_SendCodevalidation.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_UpdatePassword.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Users.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Properties.Resources.resources
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.GenerateResource.cache
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CoreCompileInputs.cache
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CopyComplete
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.exe
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.pdb
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe.config
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.pdb
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.dll
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.dll
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.pdb
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.pdb
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_codeValidation.resources
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_ListaProyects.resources
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Login.resources
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Main.resources
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Newpassword.resources
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Proyects.resources
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_SendCodevalidation.resources
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_UpdatePassword.resources
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Users.resources
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Properties.Resources.resources
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CopyComplete
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.exe
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe.config
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csprojAssemblyReference.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_codeValidation.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_ListaProyects.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Login.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Main.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Newpassword.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Proyects.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_SendCodevalidation.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_UpdatePassword.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Users.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Properties.Resources.resources
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.GenerateResource.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CoreCompileInputs.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CopyComplete
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.exe
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.pdb
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe.config
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.exe
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\Aplication-SAP.pdb
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.dll
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\BLL.pdb
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\bin\Debug\DAL.pdb
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csprojAssemblyReference.cache
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_codeValidation.resources
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_ListaProyects.resources
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Login.resources
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Main.resources
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Newpassword.resources
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Proyects.resources
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_SendCodevalidation.resources
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_UpdatePassword.resources
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Frm_Users.resources
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication_SAP.Properties.Resources.resources
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.GenerateResource.cache
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CoreCompileInputs.cache
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.csproj.CopyComplete
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.exe
+D:\Cursos VII Ciclo 2022 Informática\App-SAP-Con Git\APP-SAP\Aplication-SAP\Aplication-SAP\Aplication-SAP\obj\Debug\Aplication-SAP.pdb
