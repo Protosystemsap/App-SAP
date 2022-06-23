@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplication-SAP", "Aplication-SAP\Aplication-SAP.csproj", "{277C9738-5460-4826-8584-02B3FCC47526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{CF0D8BDA-4922-400F-9AE9-EA4BAA7C591B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{80B4FBFC-2A43-4404-AEAF-1439416C7577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{277C9738-5460-4826-8584-02B3FCC47526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277C9738-5460-4826-8584-02B3FCC47526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277C9738-5460-4826-8584-02B3FCC47526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277C9738-5460-4826-8584-02B3FCC47526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0D8BDA-4922-400F-9AE9-EA4BAA7C591B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0D8BDA-4922-400F-9AE9-EA4BAA7C591B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0D8BDA-4922-400F-9AE9-EA4BAA7C591B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0D8BDA-4922-400F-9AE9-EA4BAA7C591B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B4FBFC-2A43-4404-AEAF-1439416C7577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B4FBFC-2A43-4404-AEAF-1439416C7577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B4FBFC-2A43-4404-AEAF-1439416C7577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B4FBFC-2A43-4404-AEAF-1439416C7577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {304933AB-2523-4158-99DD-1E07E96DE3E6}
+	EndGlobalSection
+EndGlobal

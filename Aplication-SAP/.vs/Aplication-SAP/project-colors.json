@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "277c9738-5460-4826-8584-02b3fcc47526": {
+      "ProjectGuid": "277c9738-5460-4826-8584-02b3fcc47526",
+      "DisplayName": "Aplication-SAP",
+      "ColorIndex": 0
+    },
+    "80b4fbfc-2a43-4404-aeaf-1439416c7577": {
+      "ProjectGuid": "80b4fbfc-2a43-4404-aeaf-1439416c7577",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "cf0d8bda-4922-400f-9ae9-ea4baa7c591b": {
+      "ProjectGuid": "cf0d8bda-4922-400f-9ae9-ea4baa7c591b",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

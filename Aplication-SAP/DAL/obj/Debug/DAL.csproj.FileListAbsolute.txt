@@ -1,0 +1,45 @@
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\DAL\bin\Debug\DAL.dll
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\DAL\bin\Debug\DAL.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\DAL\bin\Debug\BLL.dll
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\DAL\bin\Debug\BLL.pdb
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\DAL\obj\Debug\DAL.dll
+C:\Users\Bryan\OneDrive\Escritorio\Cuarto año\Ing.Software\Aplication-SAP\DAL\obj\Debug\DAL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\DAL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\DAL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\BLL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.pdb
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\DAL.dll
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\DAL.pdb
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\BLL.dll
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\BLL.pdb
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.dll
+C:\Users\allan\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.pdb
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\DAL.dll
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\DAL.pdb
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\BLL.dll
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\BLL.pdb
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.dll
+C:\Users\Usuario\Downloads\APP-SAP\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\DAL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\DAL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\BLL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\bin\Debug\BLL.pdb
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.dll
+D:\Cursos VII Ciclo 2022 Informática\Ingieneria del sofware\Aplicación de escritorio\APP-SAP-LASTVERSION\APP-SAP\Aplication-SAP\Aplication-SAP\DAL\obj\Debug\DAL.pdb
